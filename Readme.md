@@ -92,10 +92,10 @@ $ npm start
 ## Philosophy
 
   The Express philosophy is to provide small, robust tooling for HTTP servers, making
-  it a great solution for single page applications, websites, hybrids, or public
+  it a great solution for single-page applications, websites, hybrids, or public
   HTTP APIs.
 
-  Express does not force you to use any specific ORM or template engine. With support for over
+  Express does not force you to use any specific ORM or template engine. With support from over
   14 template engines via [Consolidate.js](https://github.com/tj/consolidate.js),
   you can quickly craft your perfect framework.
 
@@ -122,7 +122,7 @@ $ node examples/content-negotiation
   [![Test Coverage][coveralls-image]][coveralls-url]
 
 The Express.js project welcomes all constructive contributions. Contributions take many forms,
-from code for bug fixes and enhancements, to additions and fixes to documentation, additional
+from code for bug fixes and enhancements to additions and fixes to documentation, additional
 tests, triaging incoming pull requests and issues, and more!
 
 See the [Contributing Guide](Contributing.md) for more technical details on contributing.
